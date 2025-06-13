@@ -1,1 +1,0 @@
-/usr/bin/c++   -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -std=c++11 -O3 -O3 -DNDEBUG CMakeFiles/test_ot.dir/ot.cpp.o -o ../bin/test_ot  -Wl,-rpath,/usr/local/lib /usr/local/lib/libemp-tool.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so

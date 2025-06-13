@@ -1,1 +1,0 @@
-/usr/bin/c++   -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -std=c++11 -O3 -O3 -DNDEBUG CMakeFiles/test_cot2ot_improved.dir/cot2ot_improved.cpp.o -o ../bin/test_cot2ot_improved  -Wl,-rpath,/usr/local/lib /usr/local/lib/libemp-tool.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so
