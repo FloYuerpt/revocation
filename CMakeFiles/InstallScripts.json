@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user/emp-ot/cmake_install.cmake",
+		"/home/user/emp-ot/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
